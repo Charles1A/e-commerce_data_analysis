@@ -38,6 +38,6 @@ Historic customer lifetime value is not strongly correlated with number of days 
 
 Historic number of orders is not strongly correlated with number of days active.
 
-Full remarks and interpretation are available in the code notebook: [E-mail Marketing Data Analysis Notebook](https://github.com/Charles1A/Charles1A.github.io/blob/main/E-comm-data-analysis/E-commerce%20Data%20Analysis%20v1.1.ipynb)
+Full remarks and interpretation are available in the notebook **E-commerce Data Analysis v1.1.ipynb**
 
 [^1]: The client's data have been altered to maintain confidentiality.
